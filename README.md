@@ -1,4 +1,5 @@
 [![Header](https://raw.githubusercontent.com/SAED2906/SAED2906/main/Header.gif "Header")](https://raw.githubusercontent.com/SAED2906/SAED2906/main/Header.gif)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=SAED2906&theme=<THEME_NAME>" />
 
 
 ### Hi there 👋

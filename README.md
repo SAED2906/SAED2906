@@ -4,7 +4,7 @@
 
 # Hello, Welcome to my profile!
 
-- ![#75eeb2] (https://via.placeholder.com/15/f03c15/000000?text=+My name is William Marais, I am a student studying Computer Science at Stellenbosch University.) `#75eeb2`
+- ![#75eeb2] (https://via.placeholder.com/15/f03c15/000000?text=My name is William Marais, I am a student studying Computer Science at Stellenbosch University.) `#75eeb2`
 - ![#75eeb2] My pass times are coding and playing games, both of which are my passions. `#75eeb2`
 
 My LinkedIn: https://za.linkedin.com/in/william-marais-a9b752222?trk=people-guest_people_search-card

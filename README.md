@@ -4,8 +4,8 @@
 
 # Hello, Welcome to my profile!
 
-My name is William Marais, I am a student studying Computer Science at Stellenbosch University.
-My pass times are coding and playing games, both of which are my passions.
+- ![#75eeb2] My name is William Marais, I am a student studying Computer Science at Stellenbosch University. `#75eeb2`
+- ![#75eeb2] My pass times are coding and playing games, both of which are my passions. `#75eeb2`
 
 My LinkedIn: https://za.linkedin.com/in/william-marais-a9b752222?trk=people-guest_people_search-card
 

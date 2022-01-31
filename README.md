@@ -29,10 +29,10 @@ My LinkedIn: https://za.linkedin.com/in/william-marais-a9b752222?trk=people-gues
 
 
 <a href="https://github.com/SAED2906/SimulationTest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=SimulationTest&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=SimulationTest&theme=cobalt" />
 </a>
 
 
 <a href="https://github.com/SAED2906/CryLib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=CryLib&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=CryLib&theme=cobalt" />
 </a>    

@@ -34,5 +34,5 @@ My LinkedIn: https://za.linkedin.com/in/william-marais-a9b752222?trk=people-gues
 
 
 <a href="https://github.com/SAED2906/CryLib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=Encryptex-ClientSide&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=Encryptex-ClientSide" />
 </a>    

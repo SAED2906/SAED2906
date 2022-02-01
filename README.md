@@ -24,7 +24,7 @@ My LinkedIn: https://za.linkedin.com/in/william-marais-a9b752222?trk=people-gues
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAED2906&langs_count=3&theme=cobalt" />
 </a>
 <a href="https://github.com/SAED2906/SAED2906">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAED2906&show_icons=true&theme=cobalt" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAED2906&show_icons=true&theme=cobalt" alt="William's GitHub Stats" />
 </a>
 
 
@@ -34,5 +34,5 @@ My LinkedIn: https://za.linkedin.com/in/william-marais-a9b752222?trk=people-gues
 
 
 <a href="https://github.com/SAED2906/CryLib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=Encryptex-ClientSide" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=Encryptex-ClientSide&theme=cobalt" />
 </a>    

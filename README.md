@@ -41,4 +41,5 @@ My LinkedIn: https://za.linkedin.com/in/william-marais-a9b752222?trk=people-gues
 <a href="https://github.com/SAED2906/Encryptex-ClientSide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=Encryptex-ClientSide&theme=cobalt" />
 </a>    
- 
+
+<img align="center" src="https://raw.githubusercontent.com/SAED2906/SAED2906/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />

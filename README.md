@@ -1,6 +1,6 @@
 
 
-[![Header](https://github.com/SAED2906/SAED2906/blob/main/banner.png?raw=true "Header")](https://github.com/SAED2906)
+[![Header](https://github.com/SAED2906/SAED2906/blob/main/banner.png)](https://github.com/SAED2906)
 
 # Hello, Welcome to my profile! 
 

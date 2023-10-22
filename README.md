@@ -43,4 +43,8 @@ My LinkedIn: https://za.linkedin.com/in/william-marais-a9b752222?trk=people-gues
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=Encryptex-ClientSide&theme=github_dark" />
 </a>    
 
-<img align="center" src="https://raw.githubusercontent.com/SAED2906/SAED2906/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>

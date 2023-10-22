@@ -27,20 +27,20 @@ My pass times are coding and playing games, both of which are my passions.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SAED2906/SAED2906">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAED2906&langs_count=3&theme=github_dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAED2906&langs_count=3&theme=github_dark" />
 </a>
 <a href="https://github.com/SAED2906/SAED2906">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAED2906&show_icons=true&theme=github_dark" alt="William's GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SAED2906&show_icons=true&theme=github_dark" alt="William's GitHub Stats" />
 </a>
 
 
 <a href="https://github.com/SAED2906/SimulationTest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=SimulationTest&theme=github_dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=SimulationTest&theme=github_dark" />
 </a>
 
 
 <a href="https://github.com/SAED2906/Encryptex-ClientSide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=Encryptex-ClientSide&theme=github_dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SAED2906&repo=Encryptex-ClientSide&theme=github_dark" />
 </a>    
 
 <picture>

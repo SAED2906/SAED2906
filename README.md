@@ -9,6 +9,12 @@ Welcome to my profile!
 My name is William Marais, I am a student studying Computer Science at Stellenbosch University.
 My pass times are coding and playing games, both of which are my passions.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="icons/linkedin.png" alt="Icon 1" width="100" /> <!-- adjust width as needed -->
+  <img src="icons/instagram.png" alt="Icon 2" width="100" /> <!-- adjust width as needed -->
+</div>
+
+
 [My LinkedIn](https://za.linkedin.com/in/william-marais-a9b752222?trk=people-guest_people_search-card)
 
 ## Technologies & Tools

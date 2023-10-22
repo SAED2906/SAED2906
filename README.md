@@ -13,8 +13,9 @@ My pass times are coding and playing games, both of which are my passions.
 <a href="https://za.linkedin.com/in/william-marais-a9b752222?trk=people-guest_people_search-card"><img align="left" src="icons/linkedin.png" alt="icon | LinkedIn" width="40px"/></a>
 
 
-
+<h2 align="center">
 ## Technologies & Tools
+</h2>
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)

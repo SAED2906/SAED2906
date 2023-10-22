@@ -14,7 +14,7 @@ My pass times are coding and playing games, both of which are my passions.
   <img src="icons/instagram.png" alt="Icon 2" width="100" /> <!-- adjust width as needed -->
 </div>
 
-<a href=”https://za.linkedin.com/in/william-marais-a9b752222?trk=people-guest_people_search-card"><img align=”left” src="icons/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://za.linkedin.com/in/william-marais-a9b752222?trk=people-guest_people_search-card"><img align="left" src="icons/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
 
 [My LinkedIn](https://za.linkedin.com/in/william-marais-a9b752222?trk=people-guest_people_search-card)
 

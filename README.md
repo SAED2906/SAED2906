@@ -19,6 +19,7 @@ My LinkedIn: https://za.linkedin.com/in/william-marais-a9b752222?trk=people-gues
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/ASM?style=for-the-badge&logo=ASM&logoColor=white)
 
 
 

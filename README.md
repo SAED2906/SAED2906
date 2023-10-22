@@ -2,7 +2,9 @@
 
 [![Header](https://github.com/SAED2906/SAED2906/blob/main/banner2.png)](https://github.com/SAED2906)
 
-# Hello, Welcome to my profile! 
+<p align="center">
+# Welcome to my profile! 
+</p>
 
 My name is William Marais, I am a student studying Computer Science at Stellenbosch University.
 My pass times are coding and playing games, both of which are my passions.

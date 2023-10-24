@@ -9,6 +9,7 @@ Welcome to my profile!
 My name is William Marais, I am a student studying Computer Science at Stellenbosch University.
 My pass times are coding and playing games, both of which are my passions.
 
+![](https://komarev.com/ghpvc/?username=SAED2906&color=green)
 <a href="https://za.linkedin.com/in/william-marais-a9b752222?trk=people-guest_people_search-card"><img align="right" src="icons/instagram.png" alt="icon | LinkedIn" width="40px"/></a>
 <a href="https://za.linkedin.com/in/william-marais-a9b752222?trk=people-guest_people_search-card"><img align="right" src="icons/linkedin.png" alt="icon | LinkedIn" width="40px"/></a>
 

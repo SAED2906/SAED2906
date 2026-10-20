@@ -40,7 +40,7 @@ My pass times are coding and playing games, both of which are my passions.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SAED2906/SAED2906">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SAED2906&langs_count=3&theme=github_dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SAED2906&langs_count=3&hide=HTML&theme=github_dark" />
 </a>
 <a href="https://github.com/SAED2906/SAED2906">
   <img align="center" src="https://github-stats-extended.vercel.app/api?username=SAED2906&show_icons=true&theme=github_dark" alt="William's GitHub Stats" />
